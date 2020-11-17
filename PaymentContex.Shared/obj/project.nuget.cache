@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCh4A/IG4YyNs2hkOtIj0jUy+kMuoK4zCxaYu4IPxzUNGHETPj4BzfHq6YRlpkxZAX9c/josc7KvHZIEYF0gUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayar\\Documents\\GitHub\\ModelandoDominiosRicos\\PaymentContex.Shared\\PaymentContex.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mayar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

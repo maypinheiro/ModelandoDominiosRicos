@@ -1,0 +1,12 @@
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\bin\Debug\netstandard2.0\PaymentContex.Domain.deps.json
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\bin\Debug\netstandard2.0\PaymentContex.Domain.dll
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\bin\Debug\netstandard2.0\PaymentContex.Domain.pdb
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\obj\Debug\netstandard2.0\PaymentContex.Domain.csprojAssemblyReference.cache
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\obj\Debug\netstandard2.0\PaymentContex.Domain.AssemblyInfoInputs.cache
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\obj\Debug\netstandard2.0\PaymentContex.Domain.AssemblyInfo.cs
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\obj\Debug\netstandard2.0\PaymentContex.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\obj\Debug\netstandard2.0\PaymentContex.Domain.dll
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\obj\Debug\netstandard2.0\PaymentContex.Domain.pdb
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\bin\Debug\netstandard2.0\PaymentContex.Shared.dll
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\bin\Debug\netstandard2.0\PaymentContex.Shared.pdb
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Domain\obj\Debug\netstandard2.0\PaymentContex.Domain.csproj.CopyComplete

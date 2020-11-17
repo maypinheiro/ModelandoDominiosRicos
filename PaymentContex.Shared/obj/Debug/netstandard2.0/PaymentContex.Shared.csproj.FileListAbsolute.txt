@@ -1,0 +1,9 @@
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\bin\Debug\netstandard2.0\PaymentContex.Shared.deps.json
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\bin\Debug\netstandard2.0\PaymentContex.Shared.dll
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\bin\Debug\netstandard2.0\PaymentContex.Shared.pdb
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\obj\Debug\netstandard2.0\PaymentContex.Shared.csprojAssemblyReference.cache
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\obj\Debug\netstandard2.0\PaymentContex.Shared.AssemblyInfoInputs.cache
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\obj\Debug\netstandard2.0\PaymentContex.Shared.AssemblyInfo.cs
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\obj\Debug\netstandard2.0\PaymentContex.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\obj\Debug\netstandard2.0\PaymentContex.Shared.dll
+C:\Users\mayar\Documents\GitHub\ModelandoDominiosRicos\PaymentContex.Shared\obj\Debug\netstandard2.0\PaymentContex.Shared.pdb
